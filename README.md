@@ -1,0 +1,2 @@
+# Entity-Extraction-from-Reuters-Corpus-using-spacy-and-NLTK
+Performed some analysis with entity extraction. In particular,I looked at the Reuters corpus and tried to construct entity profiles of persons and locations. This involved iterating through the documents in the Reuters corpus, parse them appropriately, extract entities, and then store the entities along with some surrounding text. Additionally, looked for mechanisms to identify potential relationships between persons and locations.
